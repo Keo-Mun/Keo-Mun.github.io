@@ -4,7 +4,7 @@ Portfolio for Keo Mun, Game Art major at Columbia College of Chicago.
 ### Project 3 Interactive Work
 For this assignment we had to create a interactive experience that addresses some kind of global issue. I chose the issue of the "death of third places". Which is the lack of places for people to hangout outside of work and school.
 Unsure of how to make that issue I instead made a visual novel where you play as a college student looking for some sense of communitiy. But everywhere you go either lacks people or are closed.
-<img width="1736" height="1004" alt="image" src="https://github.com/user-attachments/assets/69898a64-3c05-48a8-95c0-03bc83bcdec1" />
+<img width="868" height="502" alt="image" src="https://github.com/user-attachments/assets/69898a64-3c05-48a8-95c0-03bc83bcdec1" />
 
 ### Music With Java Script
 Using Strudel.cc I was able to use Java Script to create music.
