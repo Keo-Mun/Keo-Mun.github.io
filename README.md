@@ -1,6 +1,6 @@
 # Keo Mun Portfolio
 Portfolio for Keo Mun, Game Art major at Columbia College of Chicago.
-
+[My art portfolio!](https://www.artstation.com/keorieoo)
 ### Console Text Adventure Game
 A narritive focused text game using C#.
 (i'll add itch.io link here once its done.)
