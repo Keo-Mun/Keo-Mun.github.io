@@ -4,9 +4,9 @@ Portfolio for Keo Mun, Game Art major at Columbia College of Chicago.
 ### Console Text Adventure Game
 A narritive focused text game using C#.
 (i'll add itch.io link here once its done.)
-<img width="482" height="234" alt="Screenshot 2026-04-09 132804" src="https://github.com/user-attachments/assets/c60cfa86-581a-4059-9cd0-2145739926c1" />
+<img width="282" height="234" alt="Screenshot 2026-04-09 132804" src="https://github.com/user-attachments/assets/c60cfa86-581a-4059-9cd0-2145739926c1" />
 The title page
-<img width="1248" height="511" alt="Screenshot 2026-04-09 132905" src="https://github.com/user-attachments/assets/af8a2cec-89f5-49e9-9aba-042665b0da56" />
+<img width="624" height="511" alt="Screenshot 2026-04-09 132905" src="https://github.com/user-attachments/assets/af8a2cec-89f5-49e9-9aba-042665b0da56" />
 Changing the player name and storing the information in the person class.
 <img width="1146" height="821" alt="Screenshot 2026-04-09 133153" src="https://github.com/user-attachments/assets/1be575a1-a7dd-48c4-9628-991d3352aa82" />
 The main gameplay, writing your actions out.
