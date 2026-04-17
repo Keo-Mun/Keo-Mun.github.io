@@ -7,18 +7,23 @@ A narritive focused text game using C#.
 (i'll add itch.io link here once its done.)
 <img width="482" height="117" alt="Screenshot 2026-04-09 132804" src="https://github.com/user-attachments/assets/c60cfa86-581a-4059-9cd0-2145739926c1" />
 The title page
+
 <img width="624" height="511" alt="Screenshot 2026-04-09 132905" src="https://github.com/user-attachments/assets/af8a2cec-89f5-49e9-9aba-042665b0da56" />
 Changing the player name and storing the information in the person class.
+
 <img width="573" height="410" alt="Screenshot 2026-04-09 133153" src="https://github.com/user-attachments/assets/1be575a1-a7dd-48c4-9628-991d3352aa82" />
 The main gameplay, writing your actions out.
 ### Fishing Game
 A XAML and C# game using interact and movement keys to play. I added a counter for the amount of each fish you caught. As well as some music that plays in the background.
 <img width="798" height="467" alt="fishgametitlwe" src="https://github.com/user-attachments/assets/efcea80b-e562-4dc5-8f43-1b0351295467" />
 Title Page.
+
 <img width="799" height="468" alt="fishgametut" src="https://github.com/user-attachments/assets/dac56ea1-ee76-4ae6-a27d-4264527291c9" />
 A simple tutorial.
+
 <img width="801" height="467" alt="fishgamestart" src="https://github.com/user-attachments/assets/12163415-08cf-4bca-bc4f-715eae8f7b99" />
 The very start of the game. You play as the boat.
+
 <img width="799" height="469" alt="fishgameplaying" src="https://github.com/user-attachments/assets/b9e240d6-fda6-4a57-aaab-a1a0ebe120fd" />
 The game. Fish counter as well as inventory is on the right.
 ### Project 3 Interactive Work
