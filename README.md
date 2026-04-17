@@ -12,7 +12,8 @@ Changing the player name and storing the information in the person class.
 <img width="573" height="410" alt="Screenshot 2026-04-09 133153" src="https://github.com/user-attachments/assets/1be575a1-a7dd-48c4-9628-991d3352aa82" />
 The main gameplay, writing your actions out.
 ### Fishing Game
-A XAML and C# game using interact and movement keys to play. I added a counter for the amount of each fish you caught. As well as some music that plays in the background.
+A XAML and C# game using interact and movement keys to play. I added a counter for the amount of each fish you caught. As well as some [music](https://github.com/user-attachments/files/26843407/fishing.mp3)
+ that plays in the background (it's a 7 second loop).
 <img width="798" height="467" alt="fishgametitlwe" src="https://github.com/user-attachments/assets/efcea80b-e562-4dc5-8f43-1b0351295467" />
 Title Page.
 <img width="799" height="468" alt="fishgametut" src="https://github.com/user-attachments/assets/dac56ea1-ee76-4ae6-a27d-4264527291c9" />
@@ -21,8 +22,6 @@ A simple tutorial.
 The very start of the game. You play as the boat.
 <img width="799" height="469" alt="fishgameplaying" src="https://github.com/user-attachments/assets/b9e240d6-fda6-4a57-aaab-a1a0ebe120fd" />
 The game. Fish counter as well as inventory is on the right.
-[fishing.mp3](https://github.com/user-attachments/files/26843397/fishing.mp3)
-The music is just a 7 second loop.
 ### Project 3 Interactive Work
 For this assignment we had to create a interactive experience that addresses some kind of global issue. I chose the issue of the "death of third places". Which is the lack of places for people to hangout outside of work and school.
 Unsure of how to make that issue I instead made a visual novel where you play as a college student looking for some sense of communitiy. But everywhere you go either lacks people or are closed.
