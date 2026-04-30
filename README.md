@@ -22,11 +22,27 @@ A simple tutorial.
 The very start of the game. You play as the boat.
 <img width="799" height="469" alt="fishgameplaying" src="https://github.com/user-attachments/assets/b9e240d6-fda6-4a57-aaab-a1a0ebe120fd" />
 The game. Fish counter as well as inventory is on the right.
+### Adopt a Fish
+This was my first time working with C#. It's a simple program to help understand classes.
+<img width="691" height="505" alt="image" src="https://github.com/user-attachments/assets/70a01d7e-a65c-4b87-ab2f-b627e8665721" />
+Intro screen
+<img width="956" height="563" alt="image" src="https://github.com/user-attachments/assets/cd3aebcb-82cc-40cd-83bd-5c8f38efdb36" />
+Tank display
+### Adventure Game
+A adventure game where worlds/locations were set up and then displayed as a list players can interact with.
+<img width="1114" height="626" alt="Screenshot 2026-02-12 145033" src="https://github.com/user-attachments/assets/d8e36b36-7eec-4d26-bc2d-0229fbbf06ad" />
+### Location Game
+A game the player can discover different locations
+<img width="778" height="401" alt="image" src="https://github.com/user-attachments/assets/26ae5c0f-6875-4eb4-a995-ae486bce918f" />
+Main screen
+<img width="778" height="403" alt="image" src="https://github.com/user-attachments/assets/2f4181ab-3f10-4b71-af3e-1e85952b2052" />
+The game
+<img width="790" height="408" alt="image" src="https://github.com/user-attachments/assets/b063b32f-8215-4cab-b5c7-33dbd16c0902" />
+One of the locations
 ### Project 3 Interactive Work
 For this assignment we had to create a interactive experience that addresses some kind of global issue. I chose the issue of the "death of third places". Which is the lack of places for people to hangout outside of work and school.
 Unsure of how to make that issue I instead made a visual novel where you play as a college student looking for some sense of communitiy. But everywhere you go either lacks people or are closed.
 <img width="868" height="502" alt="image" src="https://github.com/user-attachments/assets/69898a64-3c05-48a8-95c0-03bc83bcdec1" />
-
 ### Music With Java Script
 Using Strudel.cc I was able to use Java Script to create music.
 <img width="956" height="655" alt="image" src="https://github.com/user-attachments/assets/f3befa19-c572-48a4-866f-994caa49e18b" />
